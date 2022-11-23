@@ -1,0 +1,17 @@
+--------------------------------------------RULES--------------------------------------------
+
+Lorsque vous tirez une énigme, elle apparait et vous devez tapez en dessous une réponse.
+Vous avez un nombre illimité de réponses mais au bout de trois,
+si vous n'avez pas la bonne réponses, vos points ne seront pas comptés.
+
+Si l'énigme est trop dure pour vous, vous pouvez taper '/abandon' pour abandonner et repasser
+à une autre énigme. L'énigme non réussie sera probablement retirée un peu plus tard.
+
+Si vous tapez '/indice' au lieu d'une réponse à une énigme, un indice vous sera donné.
+Vous n'avez le droit qu'à 2 indices par partie.
+
+Vous pouvez aussi tapez '/niveau' pour voir le niveau de l'enigme proposée.
+Le niveau impact sur le nombre de réponses possibles et sur la possibilité d'indice.
+Tapez '/config niveau' pour connaitre les caractéristiques des niveaux.
+
+---------------------------------------------------------------------------------------------
